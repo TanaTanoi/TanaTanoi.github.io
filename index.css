@@ -1,0 +1,92 @@
+/*
+PRIMARY  : #aaa
+PRIMARYHL: #fefefe
+HEADER   : #000
+SECONDARY: #000
+HIGHLIGHT: #
+*/
+body{
+  margin: 0px;
+}
+div.container{
+  display: table;
+}
+
+div.row{
+  display: table-row;
+}
+
+div.cell{
+  display: table-cell;
+}
+
+div.header{
+  width: 100%;
+  height 40px;
+  background-color: #000;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+h1.header{
+  font-size: 50px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #B3F6FF;
+  background: -webkit-linear-gradient(#aaa, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px 20px;
+}
+
+div#header_selected{
+  background: white;
+  transform-origin: 100%;
+  color: white
+}
+
+div.header_button{
+  align-content: center;
+  width: 150px;
+  margin auto 0px;
+  color: white;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  position: relative;
+  transition-property: color;
+  transition-duration: 0.3s;
+}
+
+div.header_button:before{
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fefefe;
+  transform: scaleY(0);
+  transform-origin: 50% 100%;
+  transition-property: transform;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-out;
+}
+div.header_button:hover{
+  color: black;
+}
+div.header_button:hover:before{
+  transform: scaleY(1);
+}
+
+a.header_button{
+  align-self: center;
+  font-size: 30px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #B3F6FF;
+  background: -webkit-linear-gradient(#aaa, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: auto 0px;
+}
