@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Dead Teapot Games</title>
+  <based-in>Wellington, New Zealand</based-in>
+  <founding-date>2024</founding-date>
+  <website>https://deadteapot.games</website>
+  <press-contact>
+    <!-- Mail address -->
+    tana@deadteapot.games
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+<!--  <phone></phone>-->
+  <address>
+  <!-- Street
+    <line>
+      Kenwyn Terrace
+    </line>
+-->
+    <line>
+      <!-- City -->
+      Wellington
+    </line>
+    <line>
+      <!-- Country -->
+      New Zealand
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter / X @deadteapot</name>
+      <link>
+        https://x.com/DeadTeapot
+      </link>
+    </social>
+  </socials>
+
+  <description>Dead Teapot is making weird puzzle games in Aotearoa / New Zealand.</description>
+
+  <!-- Choose between a single block:
+  <history>
+
+  </history>
+-->
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Shape Sender Deluxe</header>
+      <text>From the talent pool of Dinosaur Polo Club (Mini Metro, Mini Motorways) comes Dead Teapot, a studio of skilled game developers established in 2024. Their debut title Shape Sender Deluxe takes the skillset from their previous work in a new direction, taking the fun and feelings of simulation games into a weird and contemplative narrative physics puzzle game.</text>
+    </history>
+    <history>
+      <header>The Team</header>
+      <text>Founded by Tana Tanoi (Mini Motorways), Dead Teapot brings together talent from around New Zealand, including the artistic vision of Poppy de Raad (Mini Motorways), the narrative design of Saf Davidson (Necrobarista, Before We Leave) and the aural excellence of Finn Mitchell-Anyon (Trigger Witch, Droplets).</text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>TEMP: Announcement Trailer</name>
+
+      <youtube>
+        eVkv-v9LFYg
+      </youtube>
+    </trailer>
+  </trailers>
+<!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+-->
+  <credits>
+    <credit>
+      <person>Tana Tanoi</person>
+      <role>Founder, Game Director</role>
+
+      <!-- Optional: -->
+      <website>http://tanamakes.games</website>
+    </credit>
+    <credit>
+      <person>Poppy de Raad</person>
+      <role>Art Director</role>
+
+      <!-- Optional: -->
+      <website>https://x.com/grubkiss</website>
+    </credit>
+    <credit>
+      <person>Finn Mitchell-Anyon</person>
+      <role>Audio Designer</role>
+
+      <!-- Optional: -->
+      <website>https://x.com/theFinneganegan</website>
+    </credit>
+    <credit>
+      <person>Saf Davidson</person>
+      <role>Narrative Designer, Writer</role>
+
+      <!-- Optional: -->
+      <website>https://x.com/Wanderlustin</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+
+      <mail>tana@deadteapot.games</mail>
+    </contact>
+  </contacts>
+</company>

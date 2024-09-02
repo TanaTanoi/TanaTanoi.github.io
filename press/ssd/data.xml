@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <title>Shape Sender Deluxe</title>
+  <website>https://deadteapot.games</website>
+
+  <!-- Link to request press copy:
+  <press-copy-request></press-copy-request>
+ -->
+  <release-dates>
+	<release-date>Late 2025</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>$19.99</value>
+    </price>
+  </prices>
+
+  <description>Solve physics puzzles with magnets, springs, fans, and more while your new best friend Sendy helps you along the way! But maybe keep an eye on him, he’s been acting a little strange…</description>
+
+  <!-- Choose between a single block: -->
+  <history>From the brains of a designer and artist duo on the indie gem Mini Motorways comes Shape Sender Deluxe! What started as a little puzzle two-person side-project has evolved into a fully fledged narrative puzzle experience with a talented team. The game uses physics puzzles to explore the relationship between developers and players with a fun, witty, slightly concerning best-friend Sendy.
+  The game takes inspiration from a variety of places, like The Incredible Machine, Portal, The Beginner's Guide, and more, but the influence of Dinosaur Polo Club's design philosphy is not hard to find either. It's gameplay dripping with a very tailored player agency; minimalist, polished visuals; and Wuselfaktor (the satisfying sensation of watching rhythmic or living systems and machines).</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Explore physics puzzles with your new friend Sendy!</feature>
+	<feature>Puzzles with creative to make and satisfying to watch solutions</feature>
+	<feature>Design your own puzzles (if you think you're good enough).</feature>
+	<feature>Competitive post-game leaderboards.</feature>
+	<feature>Share you "creative" solutions with GIF capture.</feature>
+	<feature>Steam workshop support for custom puzzles.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>TEMP: Announcement Trailer</name>
+
+      <youtube>
+        eVkv-v9LFYg
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+	  2976470
+    </steam>
+  </widgets>
+
+<!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+-->
+<credits>
+  <credit>
+	<person>Tana Tanoi</person>
+	<role>Game Director</role>
+
+	<website>http://tanamakes.games</website>
+  </credit>
+  <credit>
+	<person>Poppy de Raad</person>
+	<role>Art Director</role>
+
+	<website>https://x.com/grubkiss</website>
+  </credit>
+  <credit>
+	<person>Finn Mitchell-Anyon</person>
+	<role>Audio Designer</role>
+
+	<website>https://x.com/theFinneganegan</website>
+  </credit>
+  <credit>
+	<person>Saf Davidson</person>
+	<role>Narrative Designer, Writer</role>
+
+	<website>https://x.com/Wanderlustin</website>
+  </credit>
+</credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+
+      <!-- Pick one: -->
+      <mail>tana@deadteapot.games</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</game>
