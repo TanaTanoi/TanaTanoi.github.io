@@ -7,9 +7,10 @@
   <press-copy-request></press-copy-request>
  -->
   <release-dates>
-	<release-date>Late 2025</release-date>
+	<release-date>To be announced</release-date>
   </release-dates>
 
+<!--
   <platforms>
     <platform>
       <name>Steam</name>
@@ -23,12 +24,25 @@
       <value>$19.99</value>
     </price>
   </prices>
-
-  <description>Solve physics puzzles with magnets, springs, fans, and more while your new best friend Sendy helps you along the way! But maybe keep an eye on him, he’s been acting a little strange…</description>
+-->
+  <description>Solve physics puzzles with magnets, springs, fans, and more while your new best friend Sendy helps you along the way! But maybe keep an eye on him, he’s been acting a little strange…
+  </description>
 
   <!-- Choose between a single block: -->
-  <history>From the brains of a designer and artist duo on the indie gem Mini Motorways comes Shape Sender Deluxe! What started as a little puzzle two-person side-project has evolved into a fully fledged narrative puzzle experience with a talented team. The game uses physics puzzles to explore the relationship between developers and players with a fun, witty, slightly concerning best-friend Sendy.
-  The game takes inspiration from a variety of places, like The Incredible Machine, Portal, The Beginner's Guide, and more, but the influence of Dinosaur Polo Club's design philosphy is not hard to find either. It's gameplay dripping with a very tailored player agency; minimalist, polished visuals; and Wuselfaktor (the satisfying sensation of watching rhythmic or living systems and machines).</history>
+  <histories>
+  	<history>
+	  <header>Shape Sender Deluxe!</header>
+	  <text>
+	    From the brains of a designer and artist duo on the indie gem Mini Motorways comes Shape Sender Deluxe! What started as a little puzzle two-person side-project has evolved into a fully fledged narrative puzzle experience with a talented team. The game uses physics puzzles to explore the relationship between developers and players with a fun, witty, slightly concerning best-friend Sendy.
+	  </text>
+  	</history>
+  	<history>
+		<header>Origins</header>
+		<text>
+	  		The game takes inspiration from a variety of places, like The Incredible Machine, Portal, The Beginner's Guide, and more, but the influence of Dinosaur Polo Club's design philosphy is not hard to find either. It's gameplay dripping with a very tailored player agency; minimalist, polished visuals; and Wuselfaktor (the satisfying sensation of watching rhythmic or living systems and machines).
+		</text>
+  	</history>
+</histories>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -41,14 +55,15 @@
   -->
 
   <features>
-    <feature>Explore physics puzzles with your new friend Sendy!</feature>
-	<feature>Puzzles with creative to make and satisfying to watch solutions</feature>
+    <feature>Meet your new best friend Sendy!</feature>
+	<feature>Puzzles with myriad solutions, get creative!</feature>
 	<feature>Design your own puzzles (if you think you're good enough).</feature>
-	<feature>Competitive post-game leaderboards.</feature>
-	<feature>Share you "creative" solutions with GIF capture.</feature>
+	<feature>Competitive post-game mode</feature>
+	<feature>Share you "inventive" solutions with GIF capture.</feature>
 	<feature>Steam workshop support for custom puzzles.</feature>
   </features>
 
+<!--
   <trailers>
     <trailer>
       <name>TEMP: Announcement Trailer</name>
@@ -58,16 +73,14 @@
       </youtube>
     </trailer>
   </trailers>
-
-  <!-- You can set your widgets here (optional): -->
+-->
+  <!-- bring back once the steam page is live
   <widgets>
     <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
 	  2976470
     </steam>
   </widgets>
-
+ -->
 <!--
   <awards>
     <award>
