@@ -63,17 +63,16 @@
 	<feature>Steam workshop support for custom puzzles.</feature>
   </features>
 
-<!--
+
   <trailers>
     <trailer>
-      <name>TEMP: Announcement Trailer</name>
-
+      <name>Announcement Trailer</name>
       <youtube>
-        eVkv-v9LFYg
+        jqJHs8imhIU
       </youtube>
     </trailer>
   </trailers>
--->
+
   <!-- bring back once the steam page is live
   <widgets>
     <steam>
