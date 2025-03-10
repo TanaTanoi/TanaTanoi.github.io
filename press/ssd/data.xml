@@ -10,14 +10,13 @@
 	<release-date>To be announced</release-date>
   </release-dates>
 
-<!--
   <platforms>
     <platform>
       <name>Steam</name>
-      <link></link>
+      <link>https://store.steampowered.com/app/2976470/Shape_Sender_Deluxe/</link>
     </platform>
   </platforms>
-
+<!--
   <prices>
     <price>
       <currency>USD</currency>
@@ -73,13 +72,12 @@
     </trailer>
   </trailers>
 
-  <!-- bring back once the steam page is live
   <widgets>
     <steam>
 	  2976470
     </steam>
   </widgets>
- -->
+
 <!--
   <awards>
     <award>
@@ -88,14 +86,34 @@
     </award>
   </awards>
 
+-->
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
+      <description>Shape Sender Deluxe was one of my favourite titles I came across at PAX Aus 2024.</description>
+      <name>Kolby James</name>
+      <website>checkpointgaming.net</website>
+      <link>https://checkpointgaming.net/features/2024/10/pax-aus-2024-highlight-shape-sender-deluxe/</link>
+    </quote>
+    <quote>
+      <description>Game lineup revealed for the 2025 Draknek New Voices puzzle grant</description>
+      <name>Corey Hardt</name>
+      <website>thinkygames.com</website>
+      <link>https://thinkygames.com/news/game-lineup-revealed-for-the-2025-draknek-new-voices-puzzle-grant/</link>
+    </quote>
+    <quote>
+      <description>Shape Sender Deluxe Developer Interview: Taking Shape</description>
+      <name>Jayden Cusack</name>
+      <website>gamesnight.nz</website>
+      <link>https://gamesnight.nz/shape-sender-deluxe-developer-interview-taking-shape/</link>
+    </quote>
+    <quote>
+      <description>New physic puzzle game announced</description>
+      <name>Caff Chaoz</name>
+      <website>theindiebrew.com.au</website>
+      <link>https://theindiebrew.com.au/what-you-missed-in-indie-gaming-this-week-september-30th/</link>
     </quote>
   </quotes>
+<!--
 
   <additionals>
     <additional>

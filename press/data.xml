@@ -31,10 +31,16 @@
 
   <socials>
     <social>
-      <name>Twitter / X @deadteapot</name>
-      <link>
-        https://x.com/DeadTeapot
-      </link>
+        <name>Bluesky @deadteapot.games</name>
+        <link>
+          https://bsky.app/profile/did:plc:ltyhsye6dm5rsixtfhja6cvb
+        </link>
+      </social>
+      <social>
+        <name>Twitter / X @deadteapot</name>
+        <link>
+          https://x.com/DeadTeapot
+        </link>
     </social>
   </socials>
 
@@ -75,10 +81,10 @@
 
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
+      <description>"Shape Sender Deluxe was one of my favourite titles I came across at PAX Aus 2024"</description>
+      <name>PAX Aus 2024 Highlight – Shape Sender Deluxe</name>
+      <website>checkpointgaming.net</website>
+      <link>https://checkpointgaming.net/features/2024/10/pax-aus-2024-highlight-shape-sender-deluxe/</link>
     </quote>
   </quotes>
 
