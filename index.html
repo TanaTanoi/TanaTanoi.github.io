@@ -480,8 +480,8 @@ a,
     const shapes = [
         `<svg class="shapes" viewBox="0 0 200 200" fill="#FBE7BF"><circle cx="100" cy="100" r="100"" /></svg>`,
         `<svg class="shapes" viewBox="0 0 200 200" fill="#F7D6BB"><polygon points="200 56.18 200 143.82 143.82 143.82 143.82 200 56.17 200 56.17 143.82 0 143.82 0 56.18 56.17 56.18 56.17 0 143.82 0 143.82 56.18 200 56.18" /></svg>`,
-        `<svg class="shapes" viewBox="0 0 210 200" fill="#F6DDDB"><polygon points="105.15 170.15 40.16 200 48.47 128.97 0 76.39 70.12 62.34 105.15 0 140.18 62.34 210.29 76.39 161.83 128.97 170.13 200 105.15 170.15" /></svg>`,
-        `<svg class="shapes" viewBox="0 0 231 200" fill="#DDF0FB"><polygon points="115.47 0 0 200 230.94 200 115.47 0" /></svg>`,
+        `<svg class="shapes" viewBox="0 0 210 200" fill="#DDF0FB"><polygon points="105.15 170.15 40.16 200 48.47 128.97 0 76.39 70.12 62.34 105.15 0 140.18 62.34 210.29 76.39 161.83 128.97 170.13 200 105.15 170.15" /></svg>`,
+        `<svg class="shapes" viewBox="0 0 231 200" fill="#F6DDDB"><polygon points="115.47 0 0 200 230.94 200 115.47 0" /></svg>`,
         `<svg class="shapes" viewBox="0 0 210 200" fill="#D7EAD7"><polygon points="105.15 0 0 76.39 40.16 200 170.13 200 210.29 76.39 105.15 0" /></svg>`
     ];
     function createShape(delay = 0) {
@@ -498,8 +498,9 @@ a,
             container.appendChild(svg);
             gsap.to(svg, {
                 y: window.innerHeight + 200,
-                duration: 5,
+                duration: Math.random() * 3 + 3,
                 ease: "linear",
+                rotation: Math.random() * 360 - 180,
                 onComplete: () => {
                     svg.remove();
                     createShape(); // Recursively create a new shape after one falls
