@@ -1,0 +1,86 @@
+# --
+# This is a company data.yml. It should present your whole company.
+#
+# --
+
+type: company
+
+# URL of your press kit
+baseURL: http://press.deadteapot.games
+
+# Locale of the company page
+locale: en_GB
+
+# General information
+title: Dead Teapot Games
+basedIn: Wellington, New Zealand
+foundingDate: 2024
+website: https://deadteapot.games
+phone:
+
+# Address is multiline
+# address:
+#   - 
+
+# Social media links
+socials:
+  - name: Bluesky @deadteapot.games
+    link: https://bsky.app/profile/did:plc:ltyhsye6dm5rsixtfhja6cvb
+  - name: YouTube
+    link: https://www.youtube.com/@DeadTeapot
+
+# Primary email address for the press
+pressContact: info@deadteapot.games
+
+# Simple and short description block for your company
+description: Dead Teapot is making weird puzzle games in Aotearoa / New Zealand.
+
+# The company history
+histories: 
+  - header: Shape Sender Deluxe
+    text: From the talent pool of Dinosaur Polo Club (Mini Metro, Mini Motorways) comes Dead Teapot, a studio of skilled game developers established in 2024. Their debut title Shape Sender Deluxe takes the skillset from their previous work in a new direction, taking the fun and feelings of simulation games into a weird and contemplative narrative physics puzzle game.
+  - header: The Team
+    text: Founded by Tana Tanoi (Mini Motorways), Dead Teapot brings together talent from around New Zealand, including the artistic vision of Poppy de Raad (Mini Motorways), the narrative design of Saf Davidson (Necrobarista, Before We Leave) and the aural excellence of Finn Mitchell-Anyon (Trigger Witch, Droplets).
+
+# Videos from YouTube, Vimeo or direct download
+trailers:
+  - name: Shape Sender Deluxe Announcement Trailer
+    youtube: jqJHs8imhIU
+
+# Awards and nominations
+# awards:
+#   - description:
+#     info:
+
+# Customers / Users appreciation
+# quotes:
+#   - description:
+#     name:
+#     website:
+#     link:
+
+# Miscellaneous links
+# additionals:
+#   - title:
+#     description:
+#     link:
+
+# Staff
+credits:
+  - person: Tana Tanoi
+    role: Founder, Game Director
+    website: http://tanamakes.games
+  - person: Poppy de Raad
+    role: Art Director
+  - person: Finn Mitchell-Anyon
+    role: Audio Director & Engineer
+  - person: Saf Davidson
+    role: Narrative Designer & Editor
+
+# Full contact informations
+contacts:
+  - name: Inquiries
+    mail: info@deadteapot.games
+
+# Custom HTML head (for analytics, etc)
+# headInject:

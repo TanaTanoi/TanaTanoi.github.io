@@ -1,0 +1,132 @@
+# --
+# This is a product data.yml. It should present a single product.
+#
+# --
+
+type: product
+
+# Locale of the product page
+locale: en_GB
+
+# General information
+title: Shape Sender Deluxe
+website: https://deadteapot.games
+
+# Simple and short description block for your product
+description: Solve physics puzzles with magnets, springs, fans, and more while your new best friend Sendy helps you along the way! But maybe keep an eye on him, he’s been acting a little strange…
+
+# URL to request a copy
+# pressCopyRequest:
+
+# Business partners: investors, publishers, etc...
+# partners:
+#   - type:
+#     title:
+#     website:
+#     basedIn:
+
+# Release date(s)
+releaseDates: To be announced
+  - 
+
+# Platforms
+platforms:
+  - name: Steam
+    link: https://store.steampowered.com/app/2976470/Shape_Sender_Deluxe/
+
+# Prices (by currency)
+# prices: 
+#   - currency:
+#     value:
+
+# # Relations allows linking multiple products together by their title
+# relations:
+#   - type:
+#     product:
+
+# The product history
+histories:
+  - header: Shape Sender Deluxe!
+    text: From the brains of a designer and artist duo on the indie gem Mini Motorways comes Shape Sender Deluxe! What started as a little puzzle two-person side-project has evolved into a fully fledged narrative puzzle experience with a talented team. The game uses physics puzzles to explore the relationship between developers and players with a fun, witty, slightly concerning best-friend Sendy.
+  - header: Origins
+    text: The game takes inspiration from a variety of places, like The Incredible Machine, Portal, The Beginner's Guide, and more, but the influence of Dinosaur Polo Club's design philosphy is not hard to find either. It's gameplay dripping with a very tailored player agency; minimalist, polished visuals; and Wuselfaktor (the satisfying sensation of watching rhythmic or living systems and machines). Sonically, the biggest inspirations are Nintendo console menus of the DS/DSi/3DS era, and you can hear that reflected in every aspect of the game's sound.
+
+# The most important features of your product
+features: 
+  - Meet your new best friend Sendy!
+  - Puzzles with myriad solutions, get creative!
+  - Design your own puzzles (if you think you're good enough).
+  - Competitive post-game mode
+  - Share you "inventive" solutions with GIF capture.
+  - Steam workshop support for custom puzzles.
+
+# Videos from YouTube, Vimeo or direct download
+trailers:
+  - name: Announcement Trailer
+    youtube: jqJHs8imhIU
+  - name: Demo Announcement Trailer
+    youtube: 0t2oaEol_9k
+
+# Store links (ID)
+widgets:
+  # appstore:
+  # playstore:
+  steam: 2976470
+  # humble:
+  # itch:
+  # bandcamp:
+
+# Awards and nominations
+# awards:
+#   - description:
+#     info:
+
+# User / Reviewer appreciation
+quotes:
+  - description: Shape Sender Deluxe was one of my favourite titles I came across at PAX Aus 2024.
+    name: Kolby James
+    website: checkpointgaming.net
+    link: https://checkpointgaming.net/features/2024/10/pax-aus-2024-highlight-shape-sender-deluxe
+  - description: Game lineup revealed for the 2025 Draknek New Voices puzzle grant
+    name: Corey Hardt
+    website: thinkygames.com
+    link: https://thinkygames.com/news/game-lineup-revealed-for-the-2025-draknek-new-voices-puzzle-grant/
+  - description: Shape Sender Deluxe Developer Interview - Taking Shape
+    name: Jayden Cusack
+    website: gamesnight.nz
+    link: https://gamesnight.nz/shape-sender-deluxe-developer-interview-taking-shape/
+  - description: New physic puzzle game announced
+    name: Caff Chaoz
+    website: theindiebrew.com.au
+    link: https://theindiebrew.com.au/what-you-missed-in-indie-gaming-this-week-september-30th/
+      
+
+# Miscellaneous links
+# additionals:
+#   - title:
+#     description:
+#     link:
+
+# Information about your partners (company is auto generated)
+# abouts:
+#   - title:
+#     description:
+
+# Staff
+credits:
+  - person: Tana Tanoi
+    role: Game Director
+    website: http://tanamakes.games
+  - person: Poppy de Raad
+    role: Art Director
+  - person: Finn Mitchell-Anyon
+    role: Audio Director & Engineer
+  - person: Saf Davidson
+    role: Narrative Designer & Editor
+# Additional contact informations
+contacts:
+  - name: Tana
+    mail: info@deadteapot.games
+
+# Custom HTML head (for analytics, etc)
+# headInject:
