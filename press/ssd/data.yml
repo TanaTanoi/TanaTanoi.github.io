@@ -19,15 +19,15 @@ description: Solve physics puzzles with magnets, springs, fans, and more while y
 # pressCopyRequest:
 
 # Business partners: investors, publishers, etc...
-# partners:
-#   - type:
-#     title:
-#     website:
-#     basedIn:
+partners:
+  - type: Publisher
+    title: Dear Villagers
+    website: https://dearvillagers.com/
+    basedIn: France
 
 # Release date(s)
-releaseDates: To be announced
-  - 
+releaseDates: 
+  - Q1 2027
 
 # Platforms
 platforms:
@@ -78,7 +78,7 @@ widgets:
 
 # Awards and nominations
 # awards:
-#   - description:
+#   - description: The Pavs 2026: 
 #     info:
 
 # User / Reviewer appreciation
@@ -109,7 +109,7 @@ quotes:
 
 # Information about your partners (company is auto generated)
 # abouts:
-#   - title:
+#   - title: Publisher
 #     description:
 
 # Staff
